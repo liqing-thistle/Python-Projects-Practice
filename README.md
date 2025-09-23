@@ -7,4 +7,4 @@ Each folder contains a self-contained project that I followed from a tutorial, w
 - Explore popular libraries and frameworks.
 
 ## Projects
-### 01 - 
+### 01 - quiz_game 
