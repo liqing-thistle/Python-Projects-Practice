@@ -144,6 +144,10 @@ ENV/
 env.bak/
 venv.bak/
 .venv/            # hidden virtual env folder
+
+# VS code settings
+.vscode/
+
 # Spyder project settings
 .spyderproject
 .spyproject
